@@ -18,7 +18,7 @@ incentive to recommend, based on rules from Marketing, and returned along with t
 
 The blog post associated with this repo is located <a href='https://aws.amazon.com/blogs/machine-learning/preventing-customer-churn-by-integrating-amazon-machine-learning-with-your-databases/'>here</a>. The blog post includes a button that executes the CloudFormation template in region us-east-1. The blog builds the infrastructure shown in the diagram, and walks through the associated steps.
 
-![Architecture diagram](./Aurora-ML.jpg?raw=true "Title")
+![Architecture diagram](./Aurora-ML.png?raw=true "Title")
 
 To reuse or modify the code, clone the repo. Place the resources on your bucket in Amazon S3. Update the CloudFormation template to point to the correct bucket name to use when loading the resources, as the CF template currently has the locations of the notebooks hardcoded in it. You will need to modify these locations to point to your own S3 bucket.
 
