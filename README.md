@@ -1,4 +1,4 @@
-## Preventing Customer Churn by Integrating Amazon Machine Learning with Your Databases
+## Gain customer insights by integrating Amazon machine learning with your databases
 
 In recent years, AWS customers have been running machine learning on an
 increasing variety of datasets and data sources. Since a large percentage of
@@ -30,7 +30,7 @@ the infrastructure shown in the diagram, and walks through the associated steps.
 
 To reuse or modify the code, clone this repository. Place the resources in your bucket
 on Amazon S3. Update the CloudFormation template (see `SageMakerNotebookInstanceLifecycleConfig`) to point to the correct bucket
-name to use when loading the resources, as the template currently has the 
+name to use when loading the resources, as the template currently has the
 locations of the notebooks hardcoded in it. You will need to modify these
 locations to point to your own S3 bucket.
 
