@@ -1,4 +1,4 @@
-## Gain customer insights by integrating Amazon machine learning with your databases
+## Gain customer insights using Amazon Aurora machine learning
 
 In recent years, AWS customers have been running machine learning on an
 increasing variety of datasets and data sources. Since a large percentage of
