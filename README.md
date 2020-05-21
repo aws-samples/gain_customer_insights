@@ -22,7 +22,7 @@ appropriate incentive to recommend, based on rules from Marketing, and returned
 along with the customer's basic information. Perfect for use by a customer call
 center!
 
-The blog post associated with this repo is located <a href='https://aws.amazon.com/blogs/machine-learning/preventing-customer-churn-by-integrating-amazon-machine-learning-with-your-databases/'>here</a>. The blog post includes a button
+The blog post associated with this repo is located <a href='https://aws-blogs-prod.amazon.com/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/'>here</a>. The blog post includes a button
 that executes the CloudFormation template in region us-east-1. The blog builds
 the infrastructure shown in the diagram, and walks through the associated steps.
 
